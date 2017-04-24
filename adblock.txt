@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Chris Buckley's Personal Adblock List
+! Author: Chris Buckley | https://bux.re
+! Version: 1.0
+! Expires: 7 days
+! Support: https://github.com/cmbuckley/adblock/issues
+! Licence: https://github.com/cmbuckley/adblock/blob/master/LICENSE
+!
 ||facebook.com/plugins/*
 ||connect.facebook.com
 ||connect.facebook.net
