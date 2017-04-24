@@ -1,0 +1,3 @@
+||facebook.com/plugins/*
+||connect.facebook.com
+||connect.facebook.net
