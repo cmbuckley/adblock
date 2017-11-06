@@ -10,6 +10,7 @@
 ||connect.facebook.com
 ||connect.facebook.net
 ||ux.jqueryserve.com
+facebook.com##.ego_section
 ##.ad-blocker-warning
 @@||facebook.net^$domain=www.mapmyride.com
 @@||facebook.com^$domain=www.mapmyride.com
