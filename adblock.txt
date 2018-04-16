@@ -6,13 +6,23 @@
 ! Support: https://github.com/cmbuckley/adblock/issues
 ! Licence: https://github.com/cmbuckley/adblock/blob/master/LICENSE
 !
+! Remove all Facebook plugins
 ||facebook.com/plugins/*
 ||connect.facebook.com
 ||connect.facebook.net
 ||ux.jqueryserve.com
 facebook.com##.ego_section
-##.ad-blocker-warning
+
+! Map My Ride breaks a bit
 @@||facebook.net^$domain=www.mapmyride.com
 @@||facebook.com^$domain=www.mapmyride.com
 @@||doubleclick.net^$domain=www.mapmyride.com
 @@||cloudfront.net^$domain=www.mapmyride.com
+
+! Avoid Forbes anti adblock
+@@||forbes.com^$generichide
+@@||servedbyopenx.com^$domain=forbes.com
+||marketo.net^
+||novately.com^
+forbes.com##[id^="google_ads_iframe_"]
+forbes.com##.ntv-rail-ad
