@@ -26,3 +26,8 @@ facebook.com##.ego_section
 ||novately.com^
 forbes.com##[id^="google_ads_iframe_"]
 forbes.com##.ntv-rail-ad
+
+! Allow the share via e-mail link on Amazon (to get the short URL)
+amazon.co.uk#@##tellAFriendBox_feature_div
+amazon.co.uk#@#.feature > #tell-a-friend
+amazon.co.uk#@#a[title="Share via e-mail"]
