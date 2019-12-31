@@ -26,3 +26,6 @@ facebook.com##.ego_section
 ||novately.com^
 forbes.com##[id^="google_ads_iframe_"]
 forbes.com##.ntv-rail-ad
+
+! CNET Ad container
+cnet.com##[data-ad-container]
