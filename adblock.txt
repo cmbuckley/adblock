@@ -29,3 +29,8 @@ forbes.com##.ntv-rail-ad
 
 ! CNET Ad container
 cnet.com##[data-ad-container]
+
+! Hide Imgur features
+imgur.com##.Transformation-wrapper
+imgur.com##.Footer-wrapper
+imgur.com##.GiveEmeraldButton
