@@ -34,3 +34,7 @@ cnet.com##[data-ad-container]
 imgur.com##.Transformation-wrapper
 imgur.com##.Footer-wrapper
 imgur.com##.GiveEmeraldButton
+
+! Daily Mail anti adblock
+dailymail.co.uk##.overlay-34_Kj
+dailymail.co.uk##.wrapper-3AzfF
