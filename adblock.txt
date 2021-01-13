@@ -41,3 +41,7 @@ dailymail.co.uk##.wrapper-3AzfF
 independent.co.uk##.tp-modal
 independent.co.uk##.tp-backdrop
 latimes.com##.fc-ab-root
+||tinypass.com^$third-party
+businessinsider.com##.tp-backdrop
+businessinsider.com##.tp-modal
+@@||businessinsider.com^$elemhide
