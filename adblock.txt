@@ -35,10 +35,9 @@ imgur.com##.Transformation-wrapper
 imgur.com##.Footer-wrapper
 imgur.com##.GiveEmeraldButton
 
-! Daily Mail anti adblock
+! Anti Adblock
 dailymail.co.uk##.overlay-34_Kj
 dailymail.co.uk##.wrapper-3AzfF
-
-! Independent anti-adblock
 independent.co.uk##.tp-modal
 independent.co.uk##.tp-backdrop
+latimes.com##.fc-ab-root
