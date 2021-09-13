@@ -19,13 +19,8 @@ facebook.com##.ego_section
 @@||doubleclick.net^$domain=www.mapmyride.com
 @@||cloudfront.net^$domain=www.mapmyride.com
 
-! Avoid Forbes anti adblock
-@@||forbes.com^$generichide
-@@||servedbyopenx.com^$domain=forbes.com
-||marketo.net^
-||novately.com^
-forbes.com##[id^="google_ads_iframe_"]
-forbes.com##.ntv-rail-ad
+! Some other exceptions
+@@||fluttershares.com/webtrends.min.js
 
 ! CNET Ad container
 cnet.com##[data-ad-container]
@@ -36,6 +31,12 @@ imgur.com##.Footer-wrapper
 imgur.com##.GiveEmeraldButton
 
 ! Anti Adblock
+@@||forbes.com^$generichide
+@@||servedbyopenx.com^$domain=forbes.com
+||marketo.net^
+||novately.com^
+forbes.com##[id^="google_ads_iframe_"]
+forbes.com##.ntv-rail-ad
 dailymail.co.uk##.overlay-34_Kj
 dailymail.co.uk##.wrapper-3AzfF
 independent.co.uk##.tp-modal
@@ -45,3 +46,6 @@ latimes.com##.fc-ab-root
 businessinsider.com##.tp-backdrop
 businessinsider.com##.tp-modal
 @@||businessinsider.com^$elemhide
+
+! Hide fake CTA
+jsonlint.com##.memberful-button
