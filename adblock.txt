@@ -29,6 +29,7 @@ cnet.com##[data-ad-container]
 imgur.com##.Transformation-wrapper
 imgur.com##.Footer-wrapper
 imgur.com##.GiveEmeraldButton
+imgur.com##.GalleryVote-accoladesButton
 
 ! Anti Adblock
 @@||forbes.com^$generichide
