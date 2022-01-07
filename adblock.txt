@@ -4,7 +4,7 @@
 ! Version: 1.0
 ! Expires: 7 days
 ! Support: https://github.com/cmbuckley/adblock/issues
-! Licence: https://github.com/cmbuckley/adblock/blob/master/LICENSE
+! Licence: https://github.com/cmbuckley/adblock/blob/main/LICENSE
 !
 ! Remove all Facebook plugins
 ||facebook.com/plugins/*
