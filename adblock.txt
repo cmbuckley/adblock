@@ -30,6 +30,8 @@ imgur.com##.Transformation-wrapper
 imgur.com##.Footer-wrapper
 imgur.com##.GiveEmeraldButton
 imgur.com##.GalleryVote-accoladesButton
+imgur.com##.Post-item--interactions
+imgur.com##.Post-item[target="_blank"]
 
 ! Anti Adblock
 @@||forbes.com^$generichide
