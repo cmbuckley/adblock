@@ -1,0 +1,7 @@
+# Shopping websites to block
+# ==========================
+
+0.0.0.0 luxecollectivefashion.com
+0.0.0.0 www.asos.com
+0.0.0.0 www.reserved.com
+0.0.0.0 hardlyeverwornit.com
