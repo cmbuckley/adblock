@@ -1,0 +1,5 @@
+# Shopping websites to block
+# ==========================
+
+0.0.0.0 imgur.com
+0.0.0.0 reddit.com
